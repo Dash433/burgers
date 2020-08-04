@@ -1,0 +1,42 @@
+
+
+h1 {
+    text-align: center;
+    font-size: 100px;
+    margin-left: 1px;
+    margin-right: 1px;
+
+}
+h2, h3 {
+    text-align: center;  
+    text-decoration: underline;
+}
+
+ul {
+    list-style-type: none;
+    font-size: 20px;
+}
+
+li {
+    text-align: left; 
+}
+
+.create-form {
+    text-align: center;
+}
+
+#adding {
+    border-style: double;
+}
+
+.bpic {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      height: 30%;
+      width: 30%;
+
+}
+
+
+

@@ -1,0 +1,25 @@
+{
+  "name": "burgers",
+  "version": "1.0.0",
+  "description": "Burger App",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dash433/burgers.git"
+  },
+  "author": "Dash433",
+  "bugs": {
+    "url": "https://github.com/Dash433/burgers/issues"
+  },
+  "homepage": "https://github.com/Dash433/burgers#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "jquery": "^3.5.1",
+    "mysql": "^2.18.1"
+  }
+}
